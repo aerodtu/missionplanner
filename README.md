@@ -1,18 +1,17 @@
-# missionplanner
+# AERODTÜ Mission Planner
 
-created by: Umut Aktepe
+This repository is an enjoyable and memorable experience for us to face a real challenge to design, build and implement a Mission planner of a UAV challenge.
 
-This is created in Branch
+## Project Description
+This project is created for joining the competition of TEKNOFEST in 2022. 
 
-
-## Team
-
-- Umut AKTEPE
-- Sercan ORAN
-- Efe ŞEN
-- Nevzat Can ŞENER
-- Sedat Ali ZEVİT
+## Team Members
+- Melisa ÖZDEMİR 
+- Nevzat ŞENER
 - Toprak Su KARAKAYA
-- Melisa ÖZDEMİR
-- Derviş Barış ERCÜMENT
+- Umut AKTEPE
+- Efe ŞEN
+- Sercan ORAN
 - Kaan KONRAT
+- Derviş Barış ERCÜMENT
+- Sedat Ali ZEVİT
